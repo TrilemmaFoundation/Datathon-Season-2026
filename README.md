@@ -4,7 +4,7 @@
 </p>
 
 <!-- Season overview: replace this image in place to update the timeline and “You Are Here” map. -->
-![Datathon Season 2026 — season timeline and “You Are Here” map](datathon%20season%20overview.jpg)
+![Datathon Season 2026 — season timeline and “You Are Here” map](assets/datathon%20season%20overview.jpg)
 
 Datathon Season 2026 is a tournament for building microproducts: data-driven products that addresses a specific need. Co-hosted by Trilemma Foundation and Northeastern University, the season brings together a series of events, and build sessions leading up to Demo Day.
 
