@@ -10,6 +10,10 @@ Datathon Season 2026 is a tournament for building microproducts: data-driven pro
 
 This repository is your central participant handbook. The tournament website provides a concise, visual overview; this handbook provides the deeper context. Luma is authoritative for individual event registration, times, locations, and event updates.
 
+## Start here: what are we building towards?
+
+First, read the [Request for Microproducts](https://build.trilemma.foundation/docs/request-for-microproducts) to get a sense of what we’re working towards and the kinds of products we want to build. Then read the [Datathon guidelines](assets/guidelines.md) for guidance on shaping your microproduct and preparing for Demo Day.
+
 ## What should I do right now?
 
 1. **Apply for the Datathon if you haven’t already.** **Applications close October 4, 2026.** Complete the **[application form](https://airtable.com/appZZI7zTz3xYJE0r/pagyHcGcNVQmgCtAV/form)** before the deadline.
