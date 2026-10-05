@@ -73,3 +73,27 @@ Assuming data is a key part of your solution, confirm that it is actually usable
 By the end of the session, you should be able to say:
 
 > **I have a real problem, I am the first user, solving it creates meaningful value, the scope is buildable, and I have access to data that can reasonably help solve it.**
+
+That is the evidence you should be taking into Build Session 2, where the focus shifts from framing the problem to actually building the solution.
+
+---
+
+## Submission
+
+As part of your Build Session 1 deliverable, we expect you to initialize a **GitHub repository** for your project.
+
+If you are working as a team, **one repository per team is enough**.
+
+Your repository should contain concise Markdown documentation, such as in your `README.md`, that walks us through:
+
+- Your **problem evidence**
+- Your **data evidence**
+- What you are taking into Build Session 2
+
+Once ready, submit your repository through the **Build Session 1 submission form**.
+
+This allows our mentors to keep track of your repository and provide feedback directly through GitHub Issues.
+
+For Build Session 2, we will continue using the same repository and check back in roughly **24 hours after the session** to see how your build has progressed.
+
+The final Build Session will have its own submission form, since we will expect additional deliverables beyond the repository, including your **demo**.
