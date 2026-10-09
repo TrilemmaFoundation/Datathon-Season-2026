@@ -1,5 +1,7 @@
 # Build Session 1 Checklist
 
+[Handbook](../README.md) | [Microproduct Guidelines](../guidelines.md) | [Build Session 2](build-session-2.md) | [Build Session 3](build-session-3.md) | [Demo Video Guidelines](../demo-video-guidelines.md)
+
 The goal of Build Session 1 is to leave with enough evidence that you are framing a **real, valuable, and buildable problem**.
 
 You do not need the full solution yet.

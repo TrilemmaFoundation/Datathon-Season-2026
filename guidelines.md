@@ -1,5 +1,7 @@
 # Microproduct Guidelines
 
+[Handbook](README.md) | [Build Session 1](build%20session%20checklist/build-session-1.md) | [Build Session 2](build%20session%20checklist/build-session-2.md) | [Build Session 3](build%20session%20checklist/build-session-3.md) | [Demo Video Guidelines](demo-video-guidelines.md)
+
 These guidelines are intentionally lightweight. We will continue adding context, examples, and constraints throughout the build sessions.
 
 Keep a tab on this page as you build.

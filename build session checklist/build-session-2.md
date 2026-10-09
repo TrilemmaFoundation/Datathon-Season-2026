@@ -1,5 +1,7 @@
 # Build Session 2 Checklist
 
+[Handbook](../README.md) | [Microproduct Guidelines](../guidelines.md) | [Build Session 1](build-session-1.md) | [Build Session 3](build-session-3.md) | [Demo Video Guidelines](../demo-video-guidelines.md)
+
 The goal of Build Session 2 is to turn your idea and data into a **working app that creates visible value**.
 
 You have completed [Build Session 1](build-session-1.md): you have a real problem, you are the first user, the scope is buildable, and you have access to relevant data.

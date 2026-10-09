@@ -1,3 +1,7 @@
+# Datathon Season 2026
+
+[Microproduct Guidelines](guidelines.md) | [Build Session 1](build%20session%20checklist/build-session-1.md) | [Build Session 2](build%20session%20checklist/build-session-2.md) | [Build Session 3](build%20session%20checklist/build-session-3.md) | [Demo Video Guidelines](demo-video-guidelines.md)
+
 <!-- The banner has a permanent white background so both original logos remain readable in light and dark themes. -->
 <p align="center">
   <img src="assets/cohost-logos.svg" alt="Trilemma Foundation × Northeastern University" width="960" />
@@ -6,37 +10,49 @@
 <!-- Season overview: replace this image in place to update the timeline and “You Are Here” map. -->
 ![Datathon Season 2026 — season timeline and “You Are Here” map](assets/datathon%20season%20overview.jpg)
 
-Datathon Season 2026 is a tournament for building microproducts: data-driven products that addresses a specific need. Co-hosted by Trilemma Foundation and Northeastern University, the season brings together a series of events, and build sessions leading up to Demo Day.
+Datathon Season 2026 is a tournament for building microproducts: data-driven products that address a specific need. Co-hosted by Trilemma Foundation and Northeastern University, the season brings together a series of events and build sessions leading up to Demo Day.
 
-This repository is your central participant handbook. The tournament website provides a concise, visual overview; this handbook provides the deeper context. Luma is authoritative for individual event registration, times, locations, and event updates.
-
-## Start here: what are we building towards?
-
-First, read the [Request for Microproducts](https://build.trilemma.foundation/docs/request-for-microproducts) to get a sense of what we’re working towards and the kinds of products we want to build. Then read the [Datathon guidelines](assets/guidelines.md) for guidance on shaping your microproduct and preparing for Demo Day.
+This repository is your central participant handbook, providing guidelines, resources, and everything you need to prepare for Demo Day.
 
 ## What should I do right now?
 
-1. **Apply for the Datathon if you haven’t already.** **Applications close October 4, 2026.** Complete the **[application form](https://airtable.com/appZZI7zTz3xYJE0r/pagyHcGcNVQmgCtAV/form)** before the deadline.
+We're in the final stretch! Here's what you need to do:
 
-2. **Star this repository.** Keep it handy and check back as we upload more context, resources, and details about the build sessions and the rest of the season.
+1. **[Register for Demo Day](https://luma.com/hjzyxc4t).** Join us to showcase what you've built, meet our judges, and celebrate the season.
 
-3. **Register and secure your spot in the build sessions.** As a Datathon participant, you must participate in **at least one build session**, and we encourage you to join all of them. Capacity is limited, so sign up early to secure your spot. See each session’s Luma page for registration and current details.
+2. **Submit your final deliverables by Sunday, October 11, at 10:00 PM (Vancouver time).** Every team must submit:
+   - **GitHub repository:** Your microproduct's code and documentation.
+   - **60-second demo video:** A compelling demonstration of the problem you're solving and the value you've created. Read the [Demo Video Guidelines](demo-video-guidelines.md).
+
+   **Submission form: Coming soon!**
+
+3. **[Join our Discord](https://discord.gg/AS7WMx7Cy2)** if you haven't already. This is our main communication channel, where mentors can continue supporting you beyond the build sessions.
 
 ## How the Datathon Works
 
 This Datathon is designed to help you build toward one thing: a compelling Demo Day showcase that gets your work in front of judges, mentors, and the broader network.
 
-We work backwards from Demo Day. Each build session focuses on a different phase of creating a microproduct, from figuring out what problem to solve, to building it, to putting it in front of real users.
+Each build session focuses on a different phase of creating a microproduct, from identifying a real problem to building a solution and demonstrating its value.
 
-| Session | Phase | What you should leave with | Register |
-|---|---|---|---|
-| **Build Session 1** | **Framing** | A real problem, a clear user, relevant data, and a feasible plan for what to build | [Luma](https://luma.com/wkm57li2) |
-| **Build Session 2** | **Building** | A working product that goes beyond a concept or mockup and starts delivering real value | [Luma](https://luma.com/5kufwoow) |
-| **Build Session 3** | **Working in Public** | A deployed product that others can use, understand, and give feedback on | [Luma](https://luma.com/tt55grin) |
-| **Demo Day** | **Showcase** | A clear, compelling demonstration of the value you created | [Luma](https://luma.com/hjzyxc4t) |
+| Session | Phase | What you should leave with |
+|---|---|---|
+| **[Build Session 1](build%20session%20checklist/build-session-1.md)** | **Framing** | A real problem, a clear user, relevant data, and a feasible plan for what to build |
+| **[Build Session 2](build%20session%20checklist/build-session-2.md)** | **Building** | A working product that goes beyond a concept or mockup and starts delivering real value |
+| **[Build Session 3](build%20session%20checklist/build-session-3.md)** | **Demo Readiness** | A compelling 60-second demo, mentor feedback, and a clear path to Demo Day |
+| **[Demo Day](https://luma.com/hjzyxc4t)** | **Showcase** | A clear, compelling demonstration of the value you've created |
 
 Think of the progression as:
 
-**Problem → Product → Users → Demo**
+**Problem → Product → Demo**
 
-The build sessions are there to give you structure, mentor support, feedback, and momentum at each step. The goal is not just to finish something. It is to leave with visible proof of what you can build and the value you can create.
+The build sessions provide structure, mentor support, feedback, and momentum at each step. The goal is not just to finish something. It's to leave with visible proof of what you can build and the value you can create.
+
+## Resources
+
+- [Request for Microproducts](https://build.trilemma.foundation/docs/request-for-microproducts)
+- [Datathon Guidelines](guidelines.md)
+- [60-Second Demo Video Guidelines](demo-video-guidelines.md)
+- [Demo Day Registration](https://luma.com/hjzyxc4t)
+- [Discord Community](https://discord.gg/AS7WMx7Cy2)
+
+**See you at Demo Day!**
