@@ -14,9 +14,9 @@ Continue building, refining, or polishing whatever you need ahead of Demo Day. M
 
 Prepare a **60-second walkthrough (rough demo)** that convinces us of three things:
 
-1. WHY (**The Problem):** What real problem are you solving, and why does it matter?
-2. WHAT (**The Value):** Show us what you've built and the value it creates.
-3. HOW (**The Data):** How are you using data to solve that problem?
+1. **WHY (The Problem):** What real problem are you solving, and why does it matter?
+2. **WHAT (The Value):** Show us what you've built and the value it creates.
+3. **HOW (The Data):** How are you using data to solve that problem?
 
 Your product doesn't need to be polished or complete. Focus on communicating its core value proposition.
 
