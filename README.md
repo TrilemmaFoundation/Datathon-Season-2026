@@ -24,7 +24,7 @@ We're in the final stretch! Here's what you need to do:
    - **GitHub repository:** Your microproduct's code and documentation.
    - **60-second demo video:** A compelling demonstration of the problem you're solving and the value you've created. Read the [Demo Video Guidelines](demo-video-guidelines.md).
 
-   **Submission form: Coming soon!**
+   **[Submit your final deliverables](https://airtable.com/appZZI7zTz3xYJE0r/pagSrc0WDreG1SxeI/form).**
 
 3. **[Join our Discord](https://discord.gg/AS7WMx7Cy2)** if you haven't already. This is our main communication channel, where mentors can continue supporting you beyond the build sessions.
 
@@ -52,6 +52,7 @@ The build sessions provide structure, mentor support, feedback, and momentum at 
 - [Request for Microproducts](https://build.trilemma.foundation/docs/request-for-microproducts)
 - [Datathon Guidelines](guidelines.md)
 - [60-Second Demo Video Guidelines](demo-video-guidelines.md)
+- [Final Submission Form](https://airtable.com/appZZI7zTz3xYJE0r/pagSrc0WDreG1SxeI/form)
 - [Demo Day Registration](https://luma.com/hjzyxc4t)
 - [Discord Community](https://discord.gg/AS7WMx7Cy2)
 

@@ -34,6 +34,6 @@ Submit a **60-second video** demonstrating your microproduct. Use the feedback f
 
 Your video should stand on its own, without requiring additional explanation.
 
-The submission form will be available here soon.
+Submit your video and GitHub repository through the [final submission form](https://airtable.com/appZZI7zTz3xYJE0r/pagSrc0WDreG1SxeI/form).
 
 **Remember: You're not pitching the technology you've built. You're demonstrating the value you've created.**
